@@ -3,7 +3,7 @@ import Experience from "./Experience";
 
 function Experiences() {
     return (
-        <div className="bg-gray-50 flex flex-col gap-5">
+        <div className="bg-gray-50 flex flex-col gap-5" id="experiences">
             <p className="text-center font-medium text-3xl">
                 Experiences
             </p>

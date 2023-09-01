@@ -6,7 +6,6 @@ import Intro from '../components/Intro';
 import Experiences from '../components/Experiences';
 import Projects from '../components/Projects';
 
-
 function LandingPage() {
 
     return (

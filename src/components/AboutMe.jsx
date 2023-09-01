@@ -1,4 +1,6 @@
 import React from "react";
+import aboutme1 from "../assets/aboutme1.avif"
+import aboutme2 from "../assets/aboutme2.avif"
 
 function AboutMe() {
     return (
@@ -28,9 +30,8 @@ function AboutMe() {
                 <div className="lg:col-span-2 lg:py-8">
                     <ul className="grid grid-cols-2 gap-4">
                     <li>
-                        <a href="#" className="block group">
                         <img
-                            src="https://images.unsplash.com/photo-1573495627361-d9b87960b12d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80"
+                            src={aboutme1}
                             alt=""
                             className="object-cover w-full rounded aspect-square"
                         />
@@ -46,13 +47,11 @@ function AboutMe() {
                                 As I navigate my journey, my ultimate goal is to evolve into a Software Architect. I envision myself shaping impactful systems and untangling intricate challenges encountered by both corporations and our society at large.
                             </p>
                         </div>
-                        </a>
                     </li>
 
                     <li>
-                        <a href="#" className="block group">
                         <img
-                            src="https://images.unsplash.com/photo-1516282417715-f1193d45c97a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+                            src={aboutme2}
                             alt=""
                             className="object-cover w-full rounded aspect-square"
                         />
@@ -68,7 +67,6 @@ function AboutMe() {
                                 If you're on the lookout for aspiring talent, internships, or simply wish to forge connections, don't hesitate to reach out. Let's explore the possibilities together!
                             </p>
                         </div>
-                        </a>
                     </li>
                     </ul>
                 </div>

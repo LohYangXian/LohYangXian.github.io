@@ -3,7 +3,7 @@ import selfPortrait from '../assets/SelfPortrait.JPG'
 
 function Intro() {
     return (
-        <div className="bg-black group relative block max-w-sm min-h-full mx-auto h-auto">
+        <div className="bg-black group relative block max-w-sm min-h-full mx-auto h-auto" id="aboutme">
             <img
                 alt="Developer"
                 src= { selfPortrait }
