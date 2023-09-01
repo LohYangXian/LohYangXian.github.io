@@ -1,5 +1,8 @@
 import React from "react";
 import Experience from "./Experience";
+import ncslogo from "../assets/ncslogo.png"
+import nuslogo from "../assets/nuslogo.png"
+import autodesklogo from "../assets/autodesklogo.svg"
 
 function Experiences() {
     return (
@@ -13,7 +16,7 @@ function Experiences() {
 
                 <Experience
                     role="Software Engineer Intern"
-                    logo="https://brand.autodesk.com/app/uploads/2021/04/alternate-logo-1.svg"
+                    logo={autodesklogo}
                     companyName="Autodesk"
                     url="https://www.autodesk.com.sg/"
                     description="Backend Developer in PSETS - Files and Derivatives"
@@ -24,7 +27,7 @@ function Experiences() {
                 
                 <Experience
                     role="Teaching Assistant"
-                    logo="https://logos-download.com/wp-content/uploads/2016/12/National_University_of_Singapore_logo_NUS.png"
+                    logo={nuslogo}
                     companyName="NUS"
                     url="https://www.comp.nus.edu.sg/"
                     description="Teaching Assistant for CS2040, Data Structures and Algorithms"
@@ -35,7 +38,7 @@ function Experiences() {
 
                 <Experience
                     role="Software Engineer Intern"
-                    logo="https://www.ncs.co/dam/jcr:68e48c73-c3bf-443b-bf66-cb5f4e8bc7fe/ncs_logo.png"
+                    logo={ncslogo}
                     companyName="NCS Group"
                     url="https://www.ncs.co/en-sg/"
                     description="FullStack Developer for MOH Hospital Subvention System Project"
