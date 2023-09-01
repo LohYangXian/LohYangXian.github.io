@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4893809c.css",
-    "main.js": "/react-gh-pages/static/js/main.b7902903.js",
-    "static/js/787.14b80927.chunk.js": "/react-gh-pages/static/js/787.14b80927.chunk.js",
-    "static/media/tftTrackerV2.PNG": "/react-gh-pages/static/media/tftTrackerV2.81f5938c2b0c3afd1733.PNG",
-    "static/media/personalPortfolioPage.PNG": "/react-gh-pages/static/media/personalPortfolioPage.81809802cd5f5fdb6911.PNG",
-    "static/media/employeeManager.PNG": "/react-gh-pages/static/media/employeeManager.f5925602d25ae65771d2.PNG",
-    "static/media/karaokeBookingSystem.PNG": "/react-gh-pages/static/media/karaokeBookingSystem.eac09ee2c713b52aeb56.PNG",
-    "static/media/SelfPortrait.JPG": "/react-gh-pages/static/media/SelfPortrait.22eef3440a3afb871c04.JPG",
-    "static/media/instantMessagingSystem.PNG": "/react-gh-pages/static/media/instantMessagingSystem.e52c3cba25d0773ce0fe.PNG",
-    "static/media/SelfPortraitLogo.jpeg": "/react-gh-pages/static/media/SelfPortraitLogo.8af37cda81912d1edbe5.jpeg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.4893809c.css.map": "/react-gh-pages/static/css/main.4893809c.css.map",
-    "main.b7902903.js.map": "/react-gh-pages/static/js/main.b7902903.js.map",
-    "787.14b80927.chunk.js.map": "/react-gh-pages/static/js/787.14b80927.chunk.js.map"
+    "main.css": "/static/css/main.4893809c.css",
+    "main.js": "/static/js/main.48344349.js",
+    "static/js/787.14b80927.chunk.js": "/static/js/787.14b80927.chunk.js",
+    "static/media/tftTrackerV2.PNG": "/static/media/tftTrackerV2.81f5938c2b0c3afd1733.PNG",
+    "static/media/personalPortfolioPage.PNG": "/static/media/personalPortfolioPage.81809802cd5f5fdb6911.PNG",
+    "static/media/employeeManager.PNG": "/static/media/employeeManager.f5925602d25ae65771d2.PNG",
+    "static/media/karaokeBookingSystem.PNG": "/static/media/karaokeBookingSystem.eac09ee2c713b52aeb56.PNG",
+    "static/media/SelfPortrait.JPG": "/static/media/SelfPortrait.22eef3440a3afb871c04.JPG",
+    "static/media/instantMessagingSystem.PNG": "/static/media/instantMessagingSystem.e52c3cba25d0773ce0fe.PNG",
+    "static/media/SelfPortraitLogo.jpeg": "/static/media/SelfPortraitLogo.8af37cda81912d1edbe5.jpeg",
+    "index.html": "/index.html",
+    "main.4893809c.css.map": "/static/css/main.4893809c.css.map",
+    "main.48344349.js.map": "/static/js/main.48344349.js.map",
+    "787.14b80927.chunk.js.map": "/static/js/787.14b80927.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4893809c.css",
-    "static/js/main.b7902903.js"
+    "static/js/main.48344349.js"
   ]
 }
