@@ -6,6 +6,7 @@ import karaokeBookingSystem from '../assets/karaokeBookingSystem.PNG'
 import employeeManager from '../assets/employeeManager.PNG'
 import instantMessagingSystem from '../assets/instantMessagingSystem.PNG'
 import tftTrackerV1 from '../assets/tftTrackerV1.1.jpg'
+import workoutTracker from '../assets/WorkoutTracker.PNG'
 
 function Projects() {
     return (
@@ -31,6 +32,14 @@ function Projects() {
                     projectName="Teamfight Tactics Stats Tracker v1"
                     description="Personal App to list my most played statistics"
                     techStack="Python, Pyqt5, Riot API"
+                />
+
+                <Project
+                    url="https://github.com/LohYangXian/WorkoutTracker"
+                    image={workoutTracker}
+                    projectName="Workout Tracker System"
+                    description="Retrieve, add, update and delete worksouts"
+                    techStack="MongoDB, Node.js, Express, React, Jest"
                 />
 
                 <Project
